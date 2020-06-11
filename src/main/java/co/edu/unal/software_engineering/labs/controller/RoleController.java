@@ -4,7 +4,7 @@ import co.edu.unal.software_engineering.labs.model.Role;
 import co.edu.unal.software_engineering.labs.service.RoleService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
-//comentario 1 lab4
+//comentario 1 lab 4
 import java.util.List;
 
 @RestController
